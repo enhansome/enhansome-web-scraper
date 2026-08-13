@@ -1,0 +1,380 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scrapy",
+          "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:46:00Z",
+            "owner": "scrapy",
+            "repo": "scrapy",
+            "stars": 63829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trafilatura",
+          "description": "Library and command-line tool to extract metadata, main text, and comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:57:50Z",
+            "owner": "adbar",
+            "repo": "trafilatura",
+            "stars": 6625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdom",
+          "description": "gdom, DOM Traversing and Scraping using GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-22T23:49:24Z",
+            "owner": "syrusakbary",
+            "repo": "gdom",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extractnet",
+          "description": "machine learning based content & metadata extraction framework for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-05-19T12:36:38Z",
+            "owner": "currentslab",
+            "repo": "extractnet",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrapegraph-ai",
+          "description": "An open source library for making scraping with the use of the AI",
+          "children": []
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Goutte",
+          "description": "Goutte, a simple PHP Web Scraper.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-04-01T09:06:44Z",
+            "owner": "FriendsOfPHP",
+            "repo": "Goutte",
+            "stars": 9193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiDOM",
+          "description": "Simple and fast HTML parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T00:23:34Z",
+            "owner": "Imangazaliev",
+            "repo": "DiDOM",
+            "stars": 2199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple_html_dom",
+          "description": "Just a Simple HTML DOM library fork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-15T07:40:13Z",
+            "owner": "samacs",
+            "repo": "simple_html_dom",
+            "stars": 582
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "puppeteer",
+          "description": "Headless Chrome Node API https://pptr.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:28:54Z",
+            "owner": "puppeteer",
+            "repo": "puppeteer",
+            "stars": 95459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phantomjs",
+          "description": "Scriptable Headless WebKit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-11-26T19:43:12Z",
+            "owner": "ariya",
+            "repo": "phantomjs",
+            "stars": 29454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsdom",
+          "description": "A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T01:59:05Z",
+            "owner": "jsdom",
+            "repo": "jsdom",
+            "stars": 21646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nightmare",
+          "description": "Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-20T17:54:13Z",
+            "owner": "segment-boneyard",
+            "repo": "nightmare",
+            "stars": 19780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "casperjs",
+          "description": "Navigation scripting & testing utility for PhantomJS and SlimerJS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-04-03T21:57:20Z",
+            "owner": "casperjs",
+            "repo": "casperjs",
+            "stars": 7160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-crawler",
+          "description": "Web Crawler/Spider for NodeJS + server-side jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T15:50:22Z",
+            "owner": "bda-research",
+            "repo": "node-crawler",
+            "stars": 6798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xray",
+          "description": "The next web scraper. See through the noise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T20:45:57Z",
+            "owner": "matthewmueller",
+            "repo": "x-ray",
+            "stars": 5902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zombie",
+          "description": "Insanely fast, full-stack, headless browser testing using node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T04:54:13Z",
+            "owner": "assaf",
+            "repo": "zombie",
+            "stars": 5626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slimerjs",
+          "description": "A PhantomJS-like tool running Gecko.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-09T01:45:51Z",
+            "owner": "laurentj",
+            "repo": "slimerjs",
+            "stars": 2998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-simplecrawler",
+          "description": "Flexible event driven crawler for node.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-03-07T07:25:38Z",
+            "owner": "simplecrawler",
+            "repo": "simplecrawler",
+            "stars": 2134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightcrawler",
+          "description": "Crawl a website and run it through Google lighthouse.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-04-27T18:45:18Z",
+            "owner": "github",
+            "repo": "lightcrawler",
+            "stars": 1563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spider",
+          "description": "Programmable spidering of web sites with node.js and jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-02T18:07:39Z",
+            "owner": "mikeal",
+            "repo": "spider",
+            "stars": 722
+          }
+        }
+      ],
+      "title": "Nodejs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gocrawl",
+          "description": "Polite, slim and concurrent web crawler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-19T15:15:33Z",
+            "owner": "PuerkitoBio",
+            "repo": "gocrawl",
+            "stars": 2052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fetchbot",
+          "description": "A simple and flexible web crawler that follows the robots.txt policies and crawl delays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-19T15:11:17Z",
+            "owner": "PuerkitoBio",
+            "repo": "fetchbot",
+            "stars": 791
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reqwest",
+          "description": "An ergonomic, batteries-included HTTP Client for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T15:05:13Z",
+            "owner": "seanmonstar",
+            "repo": "reqwest",
+            "stars": 11772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scraper",
+          "description": "HTML parsing and querying with CSS selectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T07:34:16Z",
+            "owner": "rust-scraper",
+            "repo": "scraper",
+            "stars": 2415
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "MIT",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Please, read the Contribution Guidelines before submitting your suggestion.\nFeel free to open an issue or create a pull request with your additions.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:20.794Z",
+    "original_repository": "duyet/awesome-web-scraper",
+    "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
+    "enhanced_repository": "enhansome/enhansome-web-scraper",
+    "enhanced_repository_description": null,
+    "title": "Awesome Web Scraper with stars"
+  }
+}
