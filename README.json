@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:16:53Z",
+            "last_commit": "2026-08-17T08:59:33Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63866
+            "stars": 63883
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T16:13:21Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6643
+            "stars": 6646
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2023-04-01T09:06:44Z",
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9192
+            "stars": 9191
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:04:57Z",
+            "last_commit": "2026-08-17T08:27:55Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95462
+            "stars": 95464
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29454
+            "stars": 29450
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19778
+            "stars": 19770
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2022-12-09T04:54:13Z",
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5626
+            "stars": 5625
           }
         },
         {
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-10T07:34:16Z",
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2414
+            "stars": 2415
           }
         }
       ],
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:55:22.581Z",
+    "last_updated": "2026-08-17T09:07:15.412Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
     "enhanced_repository": "enhansome/enhansome-web-scraper",
