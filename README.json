@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:59:33Z",
+            "last_commit": "2026-08-18T08:43:43Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63883
+            "stars": 63926
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T16:13:21Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6646
+            "stars": 6656
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:27:55Z",
+            "last_commit": "2026-08-18T08:59:37Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95464
+            "stars": 95460
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29450
+            "stars": 29449
           }
         },
         {
@@ -155,7 +155,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T04:54:41Z",
+            "last_commit": "2026-08-18T07:33:16Z",
             "owner": "jsdom",
             "repo": "jsdom",
             "stars": 21651
@@ -172,7 +172,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770
+            "stars": 19771
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2020-04-03T21:57:20Z",
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7161
+            "stars": 7160
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-02T20:45:57Z",
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5902
+            "stars": 5903
           }
         },
         {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:07:15.412Z",
+    "last_updated": "2026-08-18T09:01:57.248Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
     "enhanced_repository": "enhansome/enhansome-web-scraper",
