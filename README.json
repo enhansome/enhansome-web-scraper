@@ -12,10 +12,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-19T08:50:11Z",
+            "last_commit": "2026-08-19T12:52:32Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63951
+            "stars": 63959
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-15T16:13:21Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6661
+            "stars": 6662
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T06:09:48Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95465
+            "stars": 95467
           }
         },
         {
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 478584,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T08:48:55Z",
+            "last_commit": "2026-08-19T11:13:46Z",
             "owner": "jsdom",
             "repo": "jsdom",
             "stars": 21651
@@ -177,7 +177,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770
+            "stars": 19771
           }
         },
         {
@@ -377,8 +377,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:03:24.882Z",
+    "last_updated": "2026-08-19T12:59:17.998Z",
     "original_repository": "duyet/awesome-web-scraper",
+    "original_repository_id": 51383372,
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
     "enhanced_repository": "enhansome/enhansome-web-scraper",
     "enhanced_repository_description": null,
