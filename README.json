@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-18T08:43:43Z",
+            "last_commit": "2026-08-19T08:50:11Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63926
+            "stars": 63951
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180136168,
             "language": "Python",
             "last_commit": "2026-08-15T16:13:21Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6656
+            "stars": 6661
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52548266,
             "language": "Python",
             "last_commit": "2019-10-22T23:49:24Z",
             "owner": "syrusakbary",
@@ -52,24 +55,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318548911,
             "language": "HTML",
             "last_commit": "2025-05-19T12:36:38Z",
             "owner": "currentslab",
             "repo": "extractnet",
             "stars": 300
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Scrapegraph-ai",
-          "description": "An open source library for making scraping with the use of the AI",
-          "children": []
         }
       ],
       "title": "Python"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 622166,
             "language": "PHP",
             "last_commit": "2023-04-01T09:06:44Z",
             "owner": "FriendsOfPHP",
@@ -92,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40770322,
             "language": "PHP",
             "last_commit": "2026-01-28T00:23:34Z",
             "owner": "Imangazaliev",
@@ -106,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5918213,
             "language": "HTML",
             "last_commit": "2024-05-15T07:40:13Z",
             "owner": "samacs",
@@ -117,7 +118,7 @@
       "title": "PHP"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -126,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:59:37Z",
+            "last_commit": "2026-08-19T06:09:48Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95460
+            "stars": 95465
           }
         },
         {
@@ -140,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1200050,
             "language": "C++",
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
@@ -154,8 +157,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478584,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T07:33:16Z",
+            "last_commit": "2026-08-19T08:48:55Z",
             "owner": "jsdom",
             "repo": "jsdom",
             "stars": 21651
@@ -168,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18477927,
             "language": "JavaScript",
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771
+            "stars": 19770
           }
         },
         {
@@ -182,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2328523,
             "language": "JavaScript",
             "last_commit": "2020-04-03T21:57:20Z",
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7160
+            "stars": 7159
           }
         },
         {
@@ -196,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1111874,
             "language": "TypeScript",
             "last_commit": "2026-06-18T15:50:22Z",
             "owner": "bda-research",
@@ -210,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30329296,
             "language": "JavaScript",
             "last_commit": "2026-08-02T20:45:57Z",
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5903
+            "stars": 5904
           }
         },
         {
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1141441,
             "language": "JavaScript",
             "last_commit": "2022-12-09T04:54:13Z",
             "owner": "assaf",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7136348,
             "language": "JavaScript",
             "last_commit": "2023-03-09T01:45:51Z",
             "owner": "laurentj",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2977773,
             "language": "JavaScript",
             "last_commit": "2021-03-07T07:25:38Z",
             "owner": "simplecrawler",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94920453,
             "language": "JavaScript",
             "last_commit": "2022-04-27T18:45:18Z",
             "owner": "github",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034096,
             "language": "JavaScript",
             "last_commit": "2019-06-02T18:07:39Z",
             "owner": "mikeal",
@@ -291,7 +304,7 @@
       "title": "Nodejs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5865837,
             "language": "Go",
             "last_commit": "2021-05-19T15:15:33Z",
             "owner": "PuerkitoBio",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15673762,
             "language": "Go",
             "last_commit": "2021-05-19T15:11:17Z",
             "owner": "PuerkitoBio",
@@ -325,7 +340,7 @@
       "title": "Go"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -334,11 +349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62350380,
             "language": "Rust",
             "last_commit": "2026-08-10T15:05:13Z",
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11781
+            "stars": 11782
           }
         },
         {
@@ -348,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48890305,
             "language": "Rust",
             "last_commit": "2026-08-10T07:34:16Z",
             "owner": "rust-scraper",
@@ -357,20 +374,10 @@
         }
       ],
       "title": "Rust"
-    },
-    {
-      "description": "MIT",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "Please, read the Contribution Guidelines before submitting your suggestion.\nFeel free to open an issue or create a pull request with your additions.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:01:57.248Z",
+    "last_updated": "2026-08-19T09:03:24.882Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
     "enhanced_repository": "enhansome/enhansome-web-scraper",
