@@ -12,10 +12,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-20T07:50:56Z",
+            "last_commit": "2026-08-21T08:22:05Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63968
+            "stars": 63979
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T16:04:18Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6667
+            "stars": 6674
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T06:09:59Z",
+            "last_commit": "2026-08-20T14:27:22Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95471
+            "stars": 95479
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-20T00:20:31Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21653
+            "stars": 21655
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771
+            "stars": 19770
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2022-04-27T18:45:18Z",
             "owner": "github",
             "repo": "lightcrawler",
-            "stars": 1562
+            "stars": 1563
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-10T15:05:13Z",
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11783
+            "stars": 11785
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-10T07:34:16Z",
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2415
+            "stars": 2416
           }
         }
       ],
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:04:43.480Z",
+    "last_updated": "2026-08-21T09:06:30.467Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_id": 51383372,
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
