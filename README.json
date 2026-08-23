@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:56:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63994
+            "stars": 64007
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T16:08:46Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6681
+            "stars": 6687
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2023-04-01T09:06:44Z",
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9190
+            "stars": 9191
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:21:31Z",
+            "last_commit": "2026-08-23T08:50:33Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95487
+            "stars": 95488
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29450
+            "stars": 29451
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-22T02:39:36Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21658
+            "stars": 21656
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-02T20:45:57Z",
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5905
+            "stars": 5907
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-10T15:05:13Z",
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11786
+            "stars": 11789
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-10T07:34:16Z",
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2417
+            "stars": 2419
           }
         }
       ],
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:55:23.508Z",
+    "last_updated": "2026-08-23T08:56:15.544Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_id": 51383372,
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
