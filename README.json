@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "crawler4j",
+          "description": "open source web crawler for Java which provides a simple interface for crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3081071,
+            "language": "Java",
+            "last_commit": "2021-11-04T08:31:46Z",
+            "owner": "yasserg",
+            "repo": "crawler4j",
+            "stars": 4618
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ebot",
+          "description": "Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593966,
+            "language": "Erlang",
+            "last_commit": "2011-04-08T19:54:55Z",
+            "owner": "matteoredaelli",
+            "repo": "ebot",
+            "stars": 329
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "scrapy",
           "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
           "children": [],
@@ -12,10 +54,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-24T08:08:11Z",
+            "last_commit": "2026-08-24T12:29:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64010
+            "stars": 64015
           }
         },
         {
@@ -129,10 +171,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:30:15Z",
+            "last_commit": "2026-08-24T13:05:07Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95490
+            "stars": 95493
           }
         },
         {
@@ -162,7 +204,7 @@
             "last_commit": "2026-08-24T07:26:22Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21657
+            "stars": 21659
           }
         },
         {
@@ -377,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:11:56.306Z",
+    "last_updated": "2026-08-24T14:30:33.028Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_id": 51383372,
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
