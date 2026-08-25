@@ -54,10 +54,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-24T12:29:41Z",
+            "last_commit": "2026-08-25T08:24:26Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64021
+            "stars": 64024
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-21T16:08:46Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6696
+            "stars": 6698
           }
         },
         {
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:06:57Z",
+            "last_commit": "2026-08-25T07:46:21Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95495
+            "stars": 95496
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-10T15:05:13Z",
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11796
+            "stars": 11797
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:33.010Z",
+    "last_updated": "2026-08-25T09:06:41.622Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_id": 51383372,
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
