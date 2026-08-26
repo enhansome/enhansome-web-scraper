@@ -54,10 +54,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-25T08:24:26Z",
+            "last_commit": "2026-08-25T11:53:24Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64024
+            "stars": 64039
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-21T16:08:46Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6698
+            "stars": 6703
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2023-04-01T09:06:44Z",
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9193
+            "stars": 9192
           }
         },
         {
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:46:21Z",
+            "last_commit": "2026-08-26T09:03:59Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95496
+            "stars": 95500
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 478584,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T01:12:20Z",
+            "last_commit": "2026-08-26T06:06:35Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21660
+            "stars": 21659
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770
+            "stars": 19769
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-06-18T15:50:22Z",
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6798
+            "stars": 6799
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-10T15:05:13Z",
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11797
+            "stars": 11796
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:06:41.622Z",
+    "last_updated": "2026-08-26T09:09:28.693Z",
     "original_repository": "duyet/awesome-web-scraper",
     "original_repository_id": 51383372,
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
