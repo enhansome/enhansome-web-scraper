@@ -15,7 +15,7 @@
             "last_commit": "2021-11-04T08:31:46Z",
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4618
+            "stars": 4619
           }
         }
       ],
@@ -54,10 +54,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-25T11:53:24Z",
+            "last_commit": "2026-08-27T12:02:20Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64039
+            "stars": 64053
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-21T16:08:46Z",
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6703
+            "stars": 6712
           }
         },
         {
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:03:59Z",
+            "last_commit": "2026-08-26T19:21:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95500
+            "stars": 95507
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29452
+            "stars": 29447
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-26T06:06:35Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21659
+            "stars": 21660
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2022-04-27T18:45:18Z",
             "owner": "github",
             "repo": "lightcrawler",
-            "stars": 1563
+            "stars": 1565
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-10T15:05:13Z",
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11796
+            "stars": 11801
           }
         },
         {
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 48890305,
             "language": "Rust",
-            "last_commit": "2026-08-10T07:34:16Z",
+            "last_commit": "2026-08-27T08:03:28Z",
             "owner": "rust-scraper",
             "repo": "scraper",
             "stars": 2417
@@ -419,9 +419,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:09:28.693Z",
-    "original_repository": "duyet/awesome-web-scraper",
-    "original_repository_id": 51383372,
+    "last_updated": "2026-08-27T12:12:15.637Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 51383372,
+      "language": null,
+      "last_commit": "2024-04-04T13:12:43Z",
+      "owner": "duyet",
+      "repo": "awesome-web-scraper",
+      "stars": 296
+    },
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
     "enhanced_repository": "enhansome/enhansome-web-scraper",
     "enhanced_repository_description": null,
