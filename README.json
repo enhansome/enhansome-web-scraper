@@ -57,7 +57,7 @@
             "last_commit": "2026-08-27T12:02:20Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64053
+            "stars": 64058
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-26T19:21:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95507
+            "stars": 95511
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29447
+            "stars": 29446
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-26T06:06:35Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21660
+            "stars": 21661
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:15.637Z",
+    "last_updated": "2026-08-27T19:10:57.723Z",
     "original_repository_info": {
       "archived": false,
       "id": 51383372,

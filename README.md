@@ -23,7 +23,7 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,053 | 🐛 448 | 🌐 Python | 📅 2026-08-27 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,058 | 🐛 448 | 🌐 Python | 📅 2026-08-27 - Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,712 | 🐛 64 | 🌐 Python | 📅 2026-08-21 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,242 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 300 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
@@ -39,9 +39,9 @@ A collection of awesome web scaper, crawler.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,507 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-26 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,511 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-26 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
-* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,660 | 🐛 403 | 🌐 JavaScript | 📅 2026-08-26 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,661 | 🐛 403 | 🌐 JavaScript | 📅 2026-08-26 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [nightmare](https://github.com/segmentio/nightmare) ⭐ 19,769 | 🐛 202 | 🌐 JavaScript | 📅 2024-04-20 - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,799 | 🐛 29 | 🌐 TypeScript | 📅 2026-06-18 - Web Crawler/Spider for NodeJS + server-side jQuery.
