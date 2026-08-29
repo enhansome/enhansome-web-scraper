@@ -73,7 +73,7 @@
             "open_issues": 448,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64081,
+            "stars": 64090,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6723,
+            "stars": 6725,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -284,7 +284,7 @@
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95516,
+            "stars": 95519,
             "topics": [
               "automation",
               "chrome",
@@ -341,7 +341,7 @@
             "open_issues": 407,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21663,
+            "stars": 21664,
             "topics": [
               "dom-apis",
               "html",
@@ -647,7 +647,7 @@
             "open_issues": 469,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11804,
+            "stars": 11805,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:43.748Z",
+    "last_updated": "2026-08-29T13:54:42.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
