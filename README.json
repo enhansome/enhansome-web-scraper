@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Web Crawler for Java",
+            "homepage": null,
             "id": 3081071,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-04T08:31:46Z",
+            "open_issues": 188,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4619
+            "stars": 4619,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web cawler. See wiki pages for more details",
+            "homepage": "http://www.redaelli.org/matteo-blog/projects/ebot",
             "id": 593966,
             "language": "Erlang",
+            "license": "GPL-3.0",
             "last_commit": "2011-04-08T19:54:55Z",
+            "open_issues": 10,
             "owner": "matteoredaelli",
             "repo": "ebot",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -54,12 +64,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+            "homepage": "https://scrapy.org",
             "id": 529502,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:53:19Z",
+            "open_issues": 448,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64083
+            "stars": 64081,
+            "topics": [
+              "crawler",
+              "crawling",
+              "framework",
+              "hacktoberfest",
+              "python",
+              "scraping",
+              "web-scraping",
+              "web-scraping-python"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -70,12 +94,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
+            "homepage": "https://trafilatura.readthedocs.io",
             "id": 180136168,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:07:54Z",
+            "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6723
+            "stars": 6723,
+            "topics": [
+              "article-extractor",
+              "corpus-builder",
+              "corpus-tools",
+              "crawler",
+              "html-to-markdown",
+              "html2text",
+              "llm",
+              "news-aggregator",
+              "news-crawler",
+              "nlp",
+              "rag",
+              "readability",
+              "rss-feed",
+              "scraping",
+              "tei",
+              "text-cleaning",
+              "text-extraction",
+              "text-mining",
+              "text-preprocessing",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -86,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DOM Traversing and Scraping using GraphQL",
+            "homepage": "http://gdom.graphene-python.org",
             "id": 52548266,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-10-22T23:49:24Z",
+            "open_issues": 5,
             "owner": "syrusakbary",
             "repo": "gdom",
-            "stars": 1242
+            "stars": 1242,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -102,12 +157,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fork of Dragnet that also extract author, headline, date, keywords from context, as well as built in metadata extraction all in one package",
+            "homepage": "https://pypi.org/project/extractnet",
             "id": 318548911,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-05-19T12:36:38Z",
+            "open_issues": 9,
             "owner": "currentslab",
             "repo": "extractnet",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "author-extraction",
+              "content-extraction",
+              "date-extraction",
+              "machine-learning",
+              "news",
+              "news-articles",
+              "news-extraction",
+              "news-extractor",
+              "python",
+              "text-cleaning",
+              "text-mining",
+              "web-scraping",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -124,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Goutte, a simple PHP Web Scraper",
+            "homepage": null,
             "id": 622166,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-01T09:06:44Z",
+            "open_issues": 138,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9190
+            "stars": 9190,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -140,12 +219,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and fast HTML and XML parser",
+            "homepage": null,
             "id": 40770322,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-28T00:23:34Z",
+            "open_issues": 27,
             "owner": "Imangazaliev",
             "repo": "DiDOM",
-            "stars": 2198
+            "stars": 2198,
+            "topics": [
+              "dom",
+              "html",
+              "html-parser",
+              "parser",
+              "xml",
+              "xml-parser",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -156,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just a Simple HTML DOM library fork. (http://simplehtmldom.sourceforge.net/)",
+            "homepage": null,
             "id": 5918213,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-05-15T07:40:13Z",
+            "open_issues": 12,
             "owner": "samacs",
             "repo": "simple_html_dom",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -178,12 +275,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript API for Chrome and Firefox",
+            "homepage": "https://pptr.dev",
             "id": 90796663,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:38:40Z",
+            "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95515
+            "stars": 95516,
+            "topics": [
+              "automation",
+              "chrome",
+              "chromium",
+              "developer-tools",
+              "firefox",
+              "headless-chrome",
+              "node-module",
+              "testing",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -194,12 +306,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scriptable Headless Browser",
+            "homepage": "http://phantomjs.org",
             "id": 1200050,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-26T19:43:12Z",
+            "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29446
+            "stars": 29446,
+            "topics": [
+              "automation",
+              "headless",
+              "headless-browser",
+              "phantomjs"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -210,12 +332,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript implementation of various web standards, for use with Node.js",
+            "homepage": null,
             "id": 478584,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:06:35Z",
+            "open_issues": 407,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21663
+            "stars": 21663,
+            "topics": [
+              "dom-apis",
+              "html",
+              "javascript",
+              "jsdom",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -226,12 +359,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-level browser automation library.",
+            "homepage": "https://open.segment.com",
             "id": 18477927,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-20T17:54:13Z",
+            "open_issues": 202,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19769
+            "stars": 19769,
+            "topics": [
+              "browser",
+              "chrome",
+              "electron",
+              "headless-chrome",
+              "phantomjs"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -242,12 +386,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS",
+            "homepage": null,
             "id": 2328523,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-03T21:57:20Z",
+            "open_issues": 0,
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7159
+            "stars": 7159,
+            "topics": [
+              "headless-browsers",
+              "headless-testing",
+              "javascript",
+              "phantomjs",
+              "slimerjs"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -258,12 +413,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Crawler/Spider for NodeJS + server-side jQuery ;-)",
+            "homepage": null,
             "id": 1111874,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T15:50:22Z",
+            "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6799
+            "stars": 6798,
+            "topics": [
+              "cheerio",
+              "crawler",
+              "extract-data",
+              "javascript",
+              "jquery",
+              "nodejs",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -274,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next web scraper. See through the <html> noise.",
+            "homepage": null,
             "id": 30329296,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T20:45:57Z",
+            "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5907
+            "stars": 5907,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -290,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Insanely fast, full-stack, headless browser testing using node.js",
+            "homepage": "http://zombie.js.org/",
             "id": 1141441,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T04:54:13Z",
+            "open_issues": 202,
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5625
+            "stars": 5625,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -306,12 +484,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scriptable browser like PhantomJS, based on Firefox",
+            "homepage": "http://slimerjs.org",
             "id": 7136348,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-09T01:45:51Z",
+            "open_issues": 164,
             "owner": "laurentj",
             "repo": "slimerjs",
-            "stars": 2998
+            "stars": 2998,
+            "topics": [
+              "casperjs",
+              "firefox",
+              "javascript",
+              "phantomjs",
+              "slimerjs"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -322,12 +511,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flexible event driven crawler for node.",
+            "homepage": null,
             "id": 2977773,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-03-07T07:25:38Z",
+            "open_issues": 66,
             "owner": "simplecrawler",
             "repo": "simplecrawler",
-            "stars": 2134
+            "stars": 2134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -338,12 +532,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Crawl a website and run it through Google lighthouse",
+            "homepage": null,
             "id": 94920453,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2022-04-27T18:45:18Z",
+            "open_issues": 15,
             "owner": "github",
             "repo": "lightcrawler",
-            "stars": 1565
+            "stars": 1565,
+            "topics": [
+              "chrome",
+              "crawler",
+              "google-lighthouse"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -354,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programmable spidering of web sites with node.js and jQuery",
+            "homepage": null,
             "id": 1034096,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-06-02T18:07:39Z",
+            "open_issues": 15,
             "owner": "mikeal",
             "repo": "spider",
-            "stars": 722
+            "stars": 722,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -376,12 +584,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polite, slim and concurrent web crawler.",
+            "homepage": null,
             "id": 5865837,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-05-19T15:15:33Z",
+            "open_issues": 6,
             "owner": "PuerkitoBio",
             "repo": "gocrawl",
-            "stars": 2052
+            "stars": 2052,
+            "topics": [
+              "crawler",
+              "robots-txt"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -392,12 +608,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and flexible web crawler that follows the robots.txt policies and crawl delays.",
+            "homepage": null,
             "id": 15673762,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-05-19T15:11:17Z",
+            "open_issues": 2,
             "owner": "PuerkitoBio",
             "repo": "fetchbot",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "crawler",
+              "robots-txt"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -414,12 +638,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy and powerful Rust HTTP Client",
+            "homepage": "https://docs.rs/reqwest",
             "id": 62350380,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T15:05:13Z",
+            "open_issues": 469,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11803
+            "stars": 11804,
+            "topics": [
+              "http",
+              "http-client",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         },
@@ -430,12 +663,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML parsing and querying with CSS selectors",
+            "homepage": "https://docs.rs/scraper",
             "id": 48890305,
             "language": "Rust",
+            "license": "ISC",
             "last_commit": "2026-08-27T08:03:28Z",
+            "open_issues": 11,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2417
+            "stars": 2417,
+            "topics": [
+              "hacktoberfest",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
         }
@@ -444,15 +685,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:17:25.763Z",
+    "last_updated": "2026-08-29T04:48:43.748Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome web scaper, crawler.",
+      "homepage": null,
       "id": 51383372,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-04-04T13:12:43Z",
+      "open_issues": 40,
       "owner": "duyet",
       "repo": "awesome-web-scraper",
-      "stars": 296
+      "stars": 296,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "goutte",
+        "phantomjs",
+        "php",
+        "scrapy",
+        "slimerjs",
+        "spider",
+        "storage",
+        "web-crawler",
+        "web-scraper"
+      ]
     },
     "original_repository_sha": "a86feea6c60036c4a020a039f3dd52b7114aa084",
     "enhanced_repository": "enhansome/enhansome-web-scraper",
