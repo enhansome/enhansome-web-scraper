@@ -73,7 +73,7 @@
             "open_issues": 432,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64165,
+            "stars": 64184,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6753,
+            "stars": 6756,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,8 +280,8 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T06:22:01Z",
-            "open_issues": 264,
+            "last_commit": "2026-09-03T11:46:56Z",
+            "open_issues": 258,
             "owner": "puppeteer",
             "repo": "puppeteer",
             "stars": 95536,
@@ -337,11 +337,11 @@
             "id": 478584,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T02:10:10Z",
-            "open_issues": 404,
+            "last_commit": "2026-09-03T12:21:45Z",
+            "open_issues": 405,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21664,
+            "stars": 21668,
             "topics": [
               "dom-apis",
               "html",
@@ -368,7 +368,7 @@
             "open_issues": 202,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770,
+            "stars": 19768,
             "topics": [
               "browser",
               "chrome",
@@ -422,7 +422,7 @@
             "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6796,
+            "stars": 6795,
             "topics": [
               "cheerio",
               "crawler",
@@ -451,7 +451,7 @@
             "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5908,
+            "stars": 5909,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -644,10 +644,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T21:05:49Z",
-            "open_issues": 469,
+            "open_issues": 470,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11807,
+            "stars": 11808,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:52:00.760Z",
+    "last_updated": "2026-09-03T12:55:26.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
