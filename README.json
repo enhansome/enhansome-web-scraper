@@ -73,7 +73,7 @@
             "open_issues": 421,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64195,
+            "stars": 64206,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6763,
+            "stars": 6765,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -207,7 +207,7 @@
             "open_issues": 138,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9189,
+            "stars": 9188,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:25:07Z",
-            "open_issues": 259,
+            "last_commit": "2026-09-05T06:15:20Z",
+            "open_issues": 260,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95541,
+            "stars": 95546,
             "topics": [
               "automation",
               "chrome",
@@ -338,10 +338,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T04:15:06Z",
-            "open_issues": 405,
+            "open_issues": 411,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21668,
+            "stars": 21670,
             "topics": [
               "dom-apis",
               "html",
@@ -451,7 +451,7 @@
             "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5910,
+            "stars": 5909,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -472,7 +472,7 @@
             "open_issues": 202,
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5626,
+            "stars": 5625,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -493,7 +493,7 @@
             "open_issues": 164,
             "owner": "laurentj",
             "repo": "slimerjs",
-            "stars": 2998,
+            "stars": 2997,
             "topics": [
               "casperjs",
               "firefox",
@@ -647,7 +647,7 @@
             "open_issues": 470,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11807,
+            "stars": 11811,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:49:10.642Z",
+    "last_updated": "2026-09-05T11:54:39.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
