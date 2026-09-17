@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T13:16:09Z",
-            "open_issues": 384,
+            "last_commit": "2026-09-17T13:38:55Z",
+            "open_issues": 369,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64368,
+            "stars": 64380,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6825,
+            "stars": 6831,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -257,7 +257,7 @@
             "open_issues": 12,
             "owner": "samacs",
             "repo": "simple_html_dom",
-            "stars": 583,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T09:55:50Z",
-            "open_issues": 260,
+            "last_commit": "2026-09-17T11:04:49Z",
+            "open_issues": 259,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95584,
+            "stars": 95583,
             "topics": [
               "automation",
               "chrome",
@@ -315,7 +315,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29433,
+            "stars": 29436,
             "topics": [
               "automation",
               "headless",
@@ -337,11 +337,11 @@
             "id": 478584,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T12:29:19Z",
-            "open_issues": 404,
+            "last_commit": "2026-09-17T12:56:05Z",
+            "open_issues": 297,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21683,
+            "stars": 21685,
             "topics": [
               "dom-apis",
               "html",
@@ -368,7 +368,7 @@
             "open_issues": 201,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19768,
+            "stars": 19769,
             "topics": [
               "browser",
               "chrome",
@@ -422,7 +422,7 @@
             "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6791,
+            "stars": 6792,
             "topics": [
               "cheerio",
               "crawler",
@@ -647,7 +647,7 @@
             "open_issues": 470,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11823,
+            "stars": 11824,
             "topics": [
               "http",
               "http-client",
@@ -672,7 +672,7 @@
             "open_issues": 12,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2419,
+            "stars": 2418,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:37:30.197Z",
+    "last_updated": "2026-09-17T13:40:03.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
