@@ -70,10 +70,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-18T11:21:38Z",
-            "open_issues": 370,
+            "open_issues": 373,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64406,
+            "stars": 64418,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6839,
+            "stars": 6842,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:52:42Z",
-            "open_issues": 260,
+            "last_commit": "2026-09-20T02:07:16Z",
+            "open_issues": 265,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95590,
+            "stars": 95595,
             "topics": [
               "automation",
               "chrome",
@@ -338,10 +338,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-19T06:21:33Z",
-            "open_issues": 301,
+            "open_issues": 304,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21688,
+            "stars": 21686,
             "topics": [
               "dom-apis",
               "html",
@@ -647,7 +647,7 @@
             "open_issues": 471,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11833,
+            "stars": 11832,
             "topics": [
               "http",
               "http-client",
@@ -672,7 +672,7 @@
             "open_issues": 12,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2421,
+            "stars": 2420,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:36:22.205Z",
+    "last_updated": "2026-09-20T13:08:40.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
