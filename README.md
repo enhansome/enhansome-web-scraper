@@ -23,8 +23,8 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,452 | 🐛 346 | 🌐 Python | 📅 2026-09-23 - Scrapy, a fast high-level web crawling & scraping framework for Python.
-* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,853 | 🐛 62 | 🌐 Python | 📅 2026-09-21 - Library and command-line tool to extract metadata, main text, and comments.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,466 | 🐛 340 | 🌐 Python | 📅 2026-09-24 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,860 | 🐛 62 | 🌐 Python | 📅 2026-09-21 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,239 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 300 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
@@ -32,17 +32,17 @@ A collection of awesome web scaper, crawler.
 ## PHP
 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) ⚠️ Archived - Goutte, a simple PHP Web Scraper.
-* [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,195 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - Simple and fast HTML parser.
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,196 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - Simple and fast HTML parser.
 * [simple\_html\_dom](https://github.com/samacs/simple_html_dom) ⭐ 582 | 🐛 12 | 🌐 HTML | 📅 2024-05-15 - Just a Simple HTML DOM library fork.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 * [Crawler](https://www.crwlr.software/packages/crawler) - A library for Rapid Web Crawler and Scraper Development.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,616 | 🐛 263 | 🌐 TypeScript | 📅 2026-09-23 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,620 | 🐛 261 | 🌐 TypeScript | 📅 2026-09-24 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
-* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,687 | 🐛 302 | 🌐 JavaScript | 📅 2026-09-22 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
-* [nightmare](https://github.com/segmentio/nightmare) ⭐ 19,772 | 🐛 201 | 🌐 JavaScript | 📅 2024-04-20 - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
+* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,688 | 🐛 302 | 🌐 JavaScript | 📅 2026-09-22 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+* [nightmare](https://github.com/segmentio/nightmare) ⭐ 19,773 | 🐛 201 | 🌐 JavaScript | 📅 2024-04-20 - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,794 | 🐛 29 | 🌐 TypeScript | 📅 2026-06-18 - Web Crawler/Spider for NodeJS + server-side jQuery.
 * [xray](https://github.com/matthewmueller/x-ray) ⭐ 5,908 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - The next web scraper. See through the `<html>` noise.
@@ -59,11 +59,11 @@ A collection of awesome web scaper, crawler.
 ## Go
 
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) ⭐ 2,051 | 🐛 6 | 🌐 Go | 📅 2021-05-19 - Polite, slim and concurrent web crawler.
-* [fetchbot](https://github.com/PuerkitoBio/fetchbot) ⭐ 791 | 🐛 2 | 🌐 Go | 📅 2021-05-19 - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
+* [fetchbot](https://github.com/PuerkitoBio/fetchbot) ⭐ 792 | 🐛 2 | 🌐 Go | 📅 2021-05-19 - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
 
 ## Rust
 
-* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,835 | 🐛 472 | 🌐 Rust | 📅 2026-09-22 - An ergonomic, batteries-included HTTP Client for Rust.
+* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,839 | 🐛 472 | 🌐 Rust | 📅 2026-09-22 - An ergonomic, batteries-included HTTP Client for Rust.
 * [scraper](https://github.com/causal-agent/scraper) ⭐ 2,421 | 🐛 12 | 🌐 Rust | 📅 2026-09-21 - HTML parsing and querying with CSS selectors.
 
 ***
@@ -80,4 +80,4 @@ Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/iss
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
