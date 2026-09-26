@@ -70,10 +70,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-25T08:39:00Z",
-            "open_issues": 340,
+            "open_issues": 341,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64479,
+            "stars": 64490,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 56,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6866,
+            "stars": 6868,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T12:50:30Z",
-            "open_issues": 263,
+            "last_commit": "2026-09-25T18:04:28Z",
+            "open_issues": 262,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95622,
+            "stars": 95623,
             "topics": [
               "automation",
               "chrome",
@@ -338,10 +338,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-22T02:11:20Z",
-            "open_issues": 302,
+            "open_issues": 304,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21692,
+            "stars": 21691,
             "topics": [
               "dom-apis",
               "html",
@@ -368,7 +368,7 @@
             "open_issues": 201,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771,
+            "stars": 19773,
             "topics": [
               "browser",
               "chrome",
@@ -647,7 +647,7 @@
             "open_issues": 471,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11840,
+            "stars": 11843,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:01:53.774Z",
+    "last_updated": "2026-09-26T13:16:35.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
