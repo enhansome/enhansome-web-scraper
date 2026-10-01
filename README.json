@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T11:54:23Z",
-            "open_issues": 323,
+            "last_commit": "2026-10-01T09:37:36Z",
+            "open_issues": 320,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64536,
+            "stars": 64543,
             "topics": [
               "crawler",
               "crawling",
@@ -99,11 +99,11 @@
             "id": 180136168,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T15:28:16Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-30T19:49:16Z",
+            "open_issues": 60,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6892,
+            "stars": 6898,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T12:24:36Z",
-            "open_issues": 275,
+            "last_commit": "2026-10-01T15:28:08Z",
+            "open_issues": 273,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95640,
+            "stars": 95644,
             "topics": [
               "automation",
               "chrome",
@@ -338,10 +338,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-22T02:11:20Z",
-            "open_issues": 306,
+            "open_issues": 307,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21693,
+            "stars": 21694,
             "topics": [
               "dom-apis",
               "html",
@@ -365,10 +365,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-04-20T17:54:13Z",
-            "open_issues": 201,
+            "open_issues": 203,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770,
+            "stars": 19760,
             "topics": [
               "browser",
               "chrome",
@@ -472,7 +472,7 @@
             "open_issues": 202,
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5624,
+            "stars": 5621,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -541,7 +541,7 @@
             "open_issues": 15,
             "owner": "github",
             "repo": "lightcrawler",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "chrome",
               "crawler",
@@ -617,7 +617,7 @@
             "open_issues": 2,
             "owner": "PuerkitoBio",
             "repo": "fetchbot",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "crawler",
               "robots-txt"
@@ -643,11 +643,11 @@
             "id": 62350380,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T18:06:25Z",
-            "open_issues": 472,
+            "last_commit": "2026-09-30T19:57:46Z",
+            "open_issues": 473,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11851,
+            "stars": 11855,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:03:47.775Z",
+    "last_updated": "2026-10-01T15:33:30.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
