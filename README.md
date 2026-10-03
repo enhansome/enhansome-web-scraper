@@ -23,7 +23,7 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,557 | 🐛 313 | 🌐 Python | 📅 2026-10-02 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,563 | 🐛 316 | 🌐 Python | 📅 2026-10-03 - Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,907 | 🐛 57 | 🌐 Python | 📅 2026-10-02 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,239 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 300 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
@@ -39,7 +39,7 @@ A collection of awesome web scaper, crawler.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,644 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-02 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,647 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-03 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
 * [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,692 | 🐛 308 | 🌐 JavaScript | 📅 2026-09-22 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [nightmare](https://github.com/segmentio/nightmare) ⭐ 19,759 | 🐛 203 | 🌐 JavaScript | 📅 2024-04-20 - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
@@ -63,8 +63,8 @@ A collection of awesome web scaper, crawler.
 
 ## Rust
 
-* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,860 | 🐛 473 | 🌐 Rust | 📅 2026-10-02 - An ergonomic, batteries-included HTTP Client for Rust.
-* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,421 | 🐛 12 | 🌐 Rust | 📅 2026-09-21 - HTML parsing and querying with CSS selectors.
+* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,862 | 🐛 473 | 🌐 Rust | 📅 2026-10-02 - An ergonomic, batteries-included HTTP Client for Rust.
+* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,422 | 🐛 12 | 🌐 Rust | 📅 2026-09-21 - HTML parsing and querying with CSS selectors.
 
 ***
 

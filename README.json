@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T22:24:31Z",
-            "open_issues": 313,
+            "last_commit": "2026-10-03T12:37:00Z",
+            "open_issues": 316,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64557,
+            "stars": 64563,
             "topics": [
               "crawler",
               "crawling",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:26:37Z",
+            "last_commit": "2026-10-03T06:19:59Z",
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95644,
+            "stars": 95647,
             "topics": [
               "automation",
               "chrome",
@@ -647,7 +647,7 @@
             "open_issues": 473,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11860,
+            "stars": 11862,
             "topics": [
               "http",
               "http-client",
@@ -672,7 +672,7 @@
             "open_issues": 12,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2421,
+            "stars": 2422,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:49.441Z",
+    "last_updated": "2026-10-03T13:34:49.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
