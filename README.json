@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-04T13:34:22Z",
-            "open_issues": 294,
+            "last_commit": "2026-10-05T08:32:21Z",
+            "open_issues": 280,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64578,
+            "stars": 64589,
             "topics": [
               "crawler",
               "crawling",
@@ -100,10 +100,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:53:41Z",
-            "open_issues": 57,
+            "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6909,
+            "stars": 6914,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -145,7 +145,7 @@
             "open_issues": 5,
             "owner": "syrusakbary",
             "repo": "gdom",
-            "stars": 1239,
+            "stars": 1238,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -207,7 +207,7 @@
             "open_issues": 138,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9184,
+            "stars": 9183,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T02:06:18Z",
-            "open_issues": 275,
+            "last_commit": "2026-10-05T16:09:48Z",
+            "open_issues": 277,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95652,
+            "stars": 95655,
             "topics": [
               "automation",
               "chrome",
@@ -315,7 +315,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29439,
+            "stars": 29440,
             "topics": [
               "automation",
               "headless",
@@ -341,7 +341,7 @@
             "open_issues": 295,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21694,
+            "stars": 21695,
             "topics": [
               "dom-apis",
               "html",
@@ -368,7 +368,7 @@
             "open_issues": 203,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19760,
+            "stars": 19761,
             "topics": [
               "browser",
               "chrome",
@@ -422,7 +422,7 @@
             "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6794,
+            "stars": 6793,
             "topics": [
               "cheerio",
               "crawler",
@@ -451,7 +451,7 @@
             "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5905,
+            "stars": 5903,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -472,7 +472,7 @@
             "open_issues": 202,
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5622,
+            "stars": 5621,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -541,7 +541,7 @@
             "open_issues": 15,
             "owner": "github",
             "repo": "lightcrawler",
-            "stars": 1569,
+            "stars": 1568,
             "topics": [
               "chrome",
               "crawler",
@@ -668,8 +668,8 @@
             "id": 48890305,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-09-21T07:35:22Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-05T10:40:06Z",
+            "open_issues": 14,
             "owner": "rust-scraper",
             "repo": "scraper",
             "stars": 2421,
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:13:54.278Z",
+    "last_updated": "2026-10-05T17:16:33.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
@@ -697,7 +697,7 @@
       "open_issues": 40,
       "owner": "duyet",
       "repo": "awesome-web-scraper",
-      "stars": 296,
+      "stars": 295,
       "topics": [
         "awesome",
         "awesome-list",
