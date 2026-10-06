@@ -73,7 +73,7 @@
             "open_issues": 280,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64604,
+            "stars": 64609,
             "topics": [
               "crawler",
               "crawling",
@@ -99,11 +99,11 @@
             "id": 180136168,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:53:41Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-06T15:20:16Z",
+            "open_issues": 56,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6920,
+            "stars": 6921,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:52:37Z",
-            "open_issues": 279,
+            "last_commit": "2026-10-06T15:02:49Z",
+            "open_issues": 276,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95660,
+            "stars": 95665,
             "topics": [
               "automation",
               "chrome",
@@ -341,7 +341,7 @@
             "open_issues": 297,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21696,
+            "stars": 21697,
             "topics": [
               "dom-apis",
               "html",
@@ -368,7 +368,7 @@
             "open_issues": 203,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19763,
+            "stars": 19764,
             "topics": [
               "browser",
               "chrome",
@@ -422,7 +422,7 @@
             "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6794,
+            "stars": 6795,
             "topics": [
               "cheerio",
               "crawler",
@@ -451,7 +451,7 @@
             "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5903,
+            "stars": 5904,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -647,7 +647,7 @@
             "open_issues": 473,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11865,
+            "stars": 11866,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:32.466Z",
+    "last_updated": "2026-10-06T15:21:12.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
