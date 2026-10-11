@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T18:24:16Z",
+            "last_commit": "2026-10-10T19:54:42Z",
             "open_issues": 265,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64708,
+            "stars": 64726,
             "topics": [
               "crawler",
               "crawling",
@@ -100,10 +100,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T19:31:29Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6948,
+            "stars": 6956,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -207,7 +207,7 @@
             "open_issues": 137,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9181,
+            "stars": 9182,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:22:32Z",
-            "open_issues": 272,
+            "last_commit": "2026-10-11T01:03:33Z",
+            "open_issues": 275,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95674,
+            "stars": 95680,
             "topics": [
               "automation",
               "chrome",
@@ -647,7 +647,7 @@
             "open_issues": 473,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11871,
+            "stars": 11872,
             "topics": [
               "http",
               "http-client",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:34:34.227Z",
+    "last_updated": "2026-10-11T14:59:34.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
