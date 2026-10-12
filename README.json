@@ -73,7 +73,7 @@
             "open_issues": 265,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64726,
+            "stars": 64756,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 75,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6956,
+            "stars": 6962,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T01:03:33Z",
-            "open_issues": 275,
+            "last_commit": "2026-10-12T13:11:22Z",
+            "open_issues": 273,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95680,
+            "stars": 95681,
             "topics": [
               "automation",
               "chrome",
@@ -368,7 +368,7 @@
             "open_issues": 203,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19762,
+            "stars": 19763,
             "topics": [
               "browser",
               "chrome",
@@ -422,7 +422,7 @@
             "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6796,
+            "stars": 6797,
             "topics": [
               "cheerio",
               "crawler",
@@ -451,7 +451,7 @@
             "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5905,
+            "stars": 5903,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -647,7 +647,7 @@
             "open_issues": 473,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11872,
+            "stars": 11871,
             "topics": [
               "http",
               "http-client",
@@ -672,7 +672,7 @@
             "open_issues": 14,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2423,
+            "stars": 2422,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:59:34.851Z",
+    "last_updated": "2026-10-12T18:05:41.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
