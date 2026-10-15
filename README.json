@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T12:33:54Z",
-            "open_issues": 256,
+            "last_commit": "2026-10-15T12:55:48Z",
+            "open_issues": 232,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64801,
+            "stars": 64825,
             "topics": [
               "crawler",
               "crawling",
@@ -103,7 +103,7 @@
             "open_issues": 84,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6968,
+            "stars": 6971,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T13:13:45Z",
+            "last_commit": "2026-10-15T13:27:03Z",
             "open_issues": 261,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95692,
+            "stars": 95697,
             "topics": [
               "automation",
               "chrome",
@@ -337,11 +337,11 @@
             "id": 478584,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T03:31:32Z",
-            "open_issues": 297,
+            "last_commit": "2026-10-15T09:22:36Z",
+            "open_issues": 296,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21709,
+            "stars": 21711,
             "topics": [
               "dom-apis",
               "html",
@@ -466,7 +466,7 @@
             "open_issues": 164,
             "owner": "laurentj",
             "repo": "slimerjs",
-            "stars": 2996,
+            "stars": 2995,
             "topics": [
               "casperjs",
               "firefox",
@@ -645,7 +645,7 @@
             "open_issues": 14,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2423,
+            "stars": 2424,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:54:35.048Z",
+    "last_updated": "2026-10-15T13:35:00.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
