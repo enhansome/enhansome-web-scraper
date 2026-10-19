@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4619,
+            "stars": 4620,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-18T10:08:55Z",
-            "open_issues": 215,
+            "last_commit": "2026-10-19T12:20:08Z",
+            "open_issues": 206,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64877,
+            "stars": 64891,
             "topics": [
               "crawler",
               "crawling",
@@ -100,10 +100,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T19:31:29Z",
-            "open_issues": 87,
+            "open_issues": 86,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 6982,
+            "stars": 6991,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -207,7 +207,7 @@
             "open_issues": 137,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9180,
+            "stars": 9179,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -280,11 +280,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T02:06:19Z",
+            "last_commit": "2026-10-19T12:49:26Z",
             "open_issues": 265,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95715,
+            "stars": 95726,
             "topics": [
               "automation",
               "chrome",
@@ -315,7 +315,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29429,
+            "stars": 29428,
             "topics": [
               "automation",
               "headless",
@@ -338,10 +338,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-17T07:09:32Z",
-            "open_issues": 286,
+            "open_issues": 288,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21714,
+            "stars": 21718,
             "topics": [
               "dom-apis",
               "html",
@@ -617,10 +617,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T14:26:57Z",
-            "open_issues": 476,
+            "open_issues": 478,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11877,
+            "stars": 11876,
             "topics": [
               "http",
               "http-client",
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:41:52.761Z",
+    "last_updated": "2026-10-19T15:46:28.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
