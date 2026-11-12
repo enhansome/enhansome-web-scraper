@@ -23,8 +23,8 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,326 | 🐛 180 | 🌐 Python | 📅 2026-11-10 - Scrapy, a fast high-level web crawling & scraping framework for Python.
-* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,121 | 🐛 63 | 🌐 Python | 📅 2026-11-11 - Library and command-line tool to extract metadata, main text, and comments.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,346 | 🐛 173 | 🌐 Python | 📅 2026-11-12 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,122 | 🐛 64 | 🌐 Python | 📅 2026-11-11 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,238 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 302 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
@@ -32,19 +32,19 @@ A collection of awesome web scaper, crawler.
 ## PHP
 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) ⚠️ Archived - Goutte, a simple PHP Web Scraper.
-* [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,194 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - Simple and fast HTML parser.
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,193 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - Simple and fast HTML parser.
 * [simple\_html\_dom](https://github.com/samacs/simple_html_dom) ⭐ 582 | 🐛 12 | 🌐 HTML | 📅 2024-05-15 - Just a Simple HTML DOM library fork.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 * [Crawler](https://www.crwlr.software/packages/crawler) - A library for Rapid Web Crawler and Scraper Development.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,820 | 🐛 192 | 🌐 TypeScript | 📅 2026-11-11 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,827 | 🐛 198 | 🌐 TypeScript | 📅 2026-11-12 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
-* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,752 | 🐛 245 | 🌐 JavaScript | 📅 2026-11-10 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,753 | 🐛 242 | 🌐 JavaScript | 📅 2026-11-12 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,798 | 🐛 30 | 🌐 TypeScript | 📅 2026-06-18 - Web Crawler/Spider for NodeJS + server-side jQuery.
-* [xray](https://github.com/matthewmueller/x-ray) ⭐ 5,901 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - The next web scraper. See through the `<html>` noise.
+* [xray](https://github.com/matthewmueller/x-ray) ⭐ 5,900 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - The next web scraper. See through the `<html>` noise.
 * [zombie](https://github.com/assaf/zombie) ⚠️ Archived - Insanely fast, full-stack, headless browser testing using node.js.
 * [slimerjs](https://github.com/laurentj/slimerjs) ⭐ 2,994 | 🐛 164 | 🌐 JavaScript | 📅 2023-03-09 - A PhantomJS-like tool running Gecko.
 * [node-simplecrawler](https://github.com/simplecrawler/simplecrawler) ⚠️ Archived - Flexible event driven crawler for node.
@@ -63,7 +63,7 @@ A collection of awesome web scaper, crawler.
 
 ## Rust
 
-* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,927 | 🐛 492 | 🌐 Rust | 📅 2026-11-09 - An ergonomic, batteries-included HTTP Client for Rust.
+* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,932 | 🐛 494 | 🌐 Rust | 📅 2026-11-11 - An ergonomic, batteries-included HTTP Client for Rust.
 * [scraper](https://github.com/causal-agent/scraper) ⭐ 2,433 | 🐛 13 | 🌐 Rust | 📅 2026-11-11 - HTML parsing and querying with CSS selectors.
 
 ***
@@ -80,4 +80,4 @@ Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/iss
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
