@@ -23,8 +23,8 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,365 | 🐛 171 | 🌐 Python | 📅 2026-11-13 - Scrapy, a fast high-level web crawling & scraping framework for Python.
-* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,126 | 🐛 66 | 🌐 Python | 📅 2026-11-13 - Library and command-line tool to extract metadata, main text, and comments.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,388 | 🐛 173 | 🌐 Python | 📅 2026-11-13 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,127 | 🐛 68 | 🌐 Python | 📅 2026-11-13 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,238 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 302 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
@@ -39,7 +39,7 @@ A collection of awesome web scaper, crawler.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,831 | 🐛 203 | 🌐 TypeScript | 📅 2026-11-13 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,837 | 🐛 207 | 🌐 TypeScript | 📅 2026-11-13 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
 * [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,755 | 🐛 240 | 🌐 JavaScript | 📅 2026-11-13 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - Navigation scripting & testing utility for PhantomJS and SlimerJS.
@@ -54,7 +54,7 @@ A collection of awesome web scaper, crawler.
 
 ## Ruby
 
-* [wombat](https://github.com/felipecsl/wombat) ⭐ 1,360 | 🐛 24 | 🌐 Ruby | 📅 2026-10-27 - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
+* [wombat](https://github.com/felipecsl/wombat) ⭐ 1,361 | 🐛 24 | 🌐 Ruby | 📅 2026-10-27 - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 
 ## Go
 
@@ -63,8 +63,8 @@ A collection of awesome web scaper, crawler.
 
 ## Rust
 
-* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,939 | 🐛 492 | 🌐 Rust | 📅 2026-11-11 - An ergonomic, batteries-included HTTP Client for Rust.
-* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,432 | 🐛 13 | 🌐 Rust | 📅 2026-11-11 - HTML parsing and querying with CSS selectors.
+* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,925 | 🐛 493 | 🌐 Rust | 📅 2026-11-11 - An ergonomic, batteries-included HTTP Client for Rust.
+* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,433 | 🐛 13 | 🌐 Rust | 📅 2026-11-11 - HTML parsing and querying with CSS selectors.
 
 ***
 
@@ -74,10 +74,10 @@ A collection of awesome web scaper, crawler.
 
 ## Contributing
 
-Please, read the [Contribution Guidelines](https://github.com/duyetdev/awesome-web-scraper/blob/master/CONTRIBUTING.md) ⭐ 295 | 🐛 40 | 📅 2024-04-04 before submitting your suggestion.
+Please, read the [Contribution Guidelines](https://github.com/duyetdev/awesome-web-scraper/blob/master/CONTRIBUTING.md) ⭐ 296 | 🐛 41 | 📅 2024-04-04 before submitting your suggestion.
 
-Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/issues) ⭐ 295 | 🐛 40 | 📅 2024-04-04 or [create a pull request](https://github.com/duyetdev/awesome-web-scraper/pulls) ⭐ 295 | 🐛 40 | 📅 2024-04-04 with your additions.
+Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/issues) ⭐ 296 | 🐛 41 | 📅 2024-04-04 or [create a pull request](https://github.com/duyetdev/awesome-web-scraper/pulls) ⭐ 296 | 🐛 41 | 📅 2024-04-04 with your additions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
