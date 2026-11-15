@@ -23,8 +23,8 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,388 | 🐛 173 | 🌐 Python | 📅 2026-11-13 - Scrapy, a fast high-level web crawling & scraping framework for Python.
-* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,127 | 🐛 68 | 🌐 Python | 📅 2026-11-13 - Library and command-line tool to extract metadata, main text, and comments.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,413 | 🐛 172 | 🌐 Python | 📅 2026-11-13 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,130 | 🐛 69 | 🌐 Python | 📅 2026-11-13 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,238 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 302 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
@@ -39,9 +39,9 @@ A collection of awesome web scaper, crawler.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,837 | 🐛 207 | 🌐 TypeScript | 📅 2026-11-13 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,842 | 🐛 212 | 🌐 TypeScript | 📅 2026-11-15 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
-* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,755 | 🐛 240 | 🌐 JavaScript | 📅 2026-11-13 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+* [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,754 | 🐛 242 | 🌐 JavaScript | 📅 2026-11-13 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,798 | 🐛 30 | 🌐 TypeScript | 📅 2026-06-18 - Web Crawler/Spider for NodeJS + server-side jQuery.
 * [xray](https://github.com/matthewmueller/x-ray) ⭐ 5,900 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - The next web scraper. See through the `<html>` noise.
@@ -63,8 +63,8 @@ A collection of awesome web scaper, crawler.
 
 ## Rust
 
-* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,925 | 🐛 493 | 🌐 Rust | 📅 2026-11-11 - An ergonomic, batteries-included HTTP Client for Rust.
-* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,433 | 🐛 13 | 🌐 Rust | 📅 2026-11-11 - HTML parsing and querying with CSS selectors.
+* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,926 | 🐛 492 | 🌐 Rust | 📅 2026-11-11 - An ergonomic, batteries-included HTTP Client for Rust.
+* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,433 | 🐛 11 | 🌐 Rust | 📅 2026-11-14 - HTML parsing and querying with CSS selectors.
 
 ***
 
@@ -80,4 +80,4 @@ Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/iss
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
