@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4621,
+            "stars": 4620,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T12:09:09Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-18T11:14:56Z",
+            "open_issues": 170,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 65450,
+            "stars": 65468,
             "topics": [
               "crawler",
               "crawling",
@@ -99,11 +99,11 @@
             "id": 180136168,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T16:08:33Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-18T16:51:23Z",
+            "open_issues": 62,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 7146,
+            "stars": 7147,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -322,11 +322,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T16:27:15Z",
-            "open_issues": 202,
+            "last_commit": "2026-11-18T15:19:53Z",
+            "open_issues": 205,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95852,
+            "stars": 95859,
             "topics": [
               "automation",
               "chrome",
@@ -383,7 +383,7 @@
             "open_issues": 243,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21755,
+            "stars": 21757,
             "topics": [
               "dom-apis",
               "html",
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7153,
+            "stars": 7152,
             "topics": [
               "headless-browsers",
               "headless-testing",
@@ -437,7 +437,7 @@
             "open_issues": 30,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6799,
+            "stars": 6798,
             "topics": [
               "cheerio",
               "crawler",
@@ -487,7 +487,7 @@
             "open_issues": 202,
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5621,
+            "stars": 5620,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -581,7 +581,7 @@
             "open_issues": 15,
             "owner": "mikeal",
             "repo": "spider",
-            "stars": 720,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -677,7 +677,7 @@
             "open_issues": 2,
             "owner": "TulipFarm",
             "repo": "huntsman",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "crawler",
               "firecrawl",
@@ -714,7 +714,7 @@
             "open_issues": 491,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11927,
+            "stars": 11930,
             "topics": [
               "http",
               "http-client",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:44:02.582Z",
+    "last_updated": "2026-11-18T17:25:19.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
@@ -761,7 +761,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-11-17T13:20:30Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "duyet",
       "repo": "awesome-web-scraper",
       "stars": 296,
