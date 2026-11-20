@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4620,
+            "stars": 4619,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -70,10 +70,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-19T11:03:58Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 65499,
+            "stars": 65511,
             "topics": [
               "crawler",
               "crawling",
@@ -99,11 +99,11 @@
             "id": 180136168,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:51:23Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-20T16:40:50Z",
+            "open_issues": 61,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 7151,
+            "stars": 7155,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -145,7 +145,7 @@
             "open_issues": 5,
             "owner": "syrusakbary",
             "repo": "gdom",
-            "stars": 1238,
+            "stars": 1237,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "currentslab",
             "repo": "extractnet",
-            "stars": 302,
+            "stars": 301,
             "topics": [
               "author-extraction",
               "content-extraction",
@@ -249,7 +249,7 @@
             "open_issues": 137,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9168,
+            "stars": 9167,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -270,7 +270,7 @@
             "open_issues": 27,
             "owner": "Imangazaliev",
             "repo": "DiDOM",
-            "stars": 2191,
+            "stars": 2190,
             "topics": [
               "dom",
               "html",
@@ -322,11 +322,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T14:40:36Z",
-            "open_issues": 206,
+            "last_commit": "2026-11-20T12:12:31Z",
+            "open_issues": 207,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95870,
+            "stars": 95874,
             "topics": [
               "automation",
               "chrome",
@@ -357,7 +357,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29410,
+            "stars": 29409,
             "topics": [
               "automation",
               "headless",
@@ -383,7 +383,7 @@
             "open_issues": 244,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21760,
+            "stars": 21761,
             "topics": [
               "dom-apis",
               "html",
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7152,
+            "stars": 7151,
             "topics": [
               "headless-browsers",
               "headless-testing",
@@ -437,7 +437,7 @@
             "open_issues": 30,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6798,
+            "stars": 6797,
             "topics": [
               "cheerio",
               "crawler",
@@ -466,7 +466,7 @@
             "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5900,
+            "stars": 5899,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -487,7 +487,7 @@
             "open_issues": 202,
             "owner": "assaf",
             "repo": "zombie",
-            "stars": 5619,
+            "stars": 5618,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -508,7 +508,7 @@
             "open_issues": 164,
             "owner": "laurentj",
             "repo": "slimerjs",
-            "stars": 2994,
+            "stars": 2993,
             "topics": [
               "casperjs",
               "firefox",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "PuerkitoBio",
             "repo": "gocrawl",
-            "stars": 2052,
+            "stars": 2050,
             "topics": [
               "crawler",
               "robots-txt"
@@ -653,7 +653,7 @@
             "open_issues": 2,
             "owner": "PuerkitoBio",
             "repo": "fetchbot",
-            "stars": 790,
+            "stars": 789,
             "topics": [
               "crawler",
               "robots-txt"
@@ -711,10 +711,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T17:24:10Z",
-            "open_issues": 493,
+            "open_issues": 496,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11930,
+            "stars": 11931,
             "topics": [
               "http",
               "http-client",
@@ -739,7 +739,7 @@
             "open_issues": 10,
             "owner": "rust-scraper",
             "repo": "scraper",
-            "stars": 2435,
+            "stars": 2434,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:30:59.640Z",
+    "last_updated": "2026-11-20T17:05:13.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
