@@ -23,8 +23,8 @@ A collection of awesome web scaper, crawler.
 
 ## Python
 
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,549 | 🐛 172 | 🌐 Python | 📅 2026-11-23 - Scrapy, a fast high-level web crawling & scraping framework for Python.
-* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,165 | 🐛 61 | 🌐 Python | 📅 2026-11-23 - Library and command-line tool to extract metadata, main text, and comments.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,560 | 🐛 173 | 🌐 Python | 📅 2026-11-23 - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [trafilatura](https://github.com/adbar/trafilatura) ⭐ 7,170 | 🐛 64 | 🌐 Python | 📅 2026-11-23 - Library and command-line tool to extract metadata, main text, and comments.
 * [gdom](https://github.com/syrusakbary/gdom) ⭐ 1,237 | 🐛 5 | 🌐 Python | 📅 2019-10-22 - gdom, DOM Traversing and Scraping using GraphQL.
 * [extractnet](https://github.com/currentsapi/extractnet) ⭐ 301 | 🐛 9 | 🌐 HTML | 📅 2025-05-19 - machine learning based content & metadata extraction framework for Python
 * [parse-everything](https://github.com/zenkdom/parse-everything-global) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - Python library and anti-bot scraping client with Playwright stealth automation and TLS impersonation.
@@ -33,19 +33,19 @@ A collection of awesome web scaper, crawler.
 ## PHP
 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) ⚠️ Archived - Goutte, a simple PHP Web Scraper.
-* [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,191 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - Simple and fast HTML parser.
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,190 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - Simple and fast HTML parser.
 * [simple\_html\_dom](https://github.com/samacs/simple_html_dom) ⭐ 582 | 🐛 12 | 🌐 HTML | 📅 2024-05-15 - Just a Simple HTML DOM library fork.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 * [Crawler](https://www.crwlr.software/packages/crawler) - A library for Rapid Web Crawler and Scraper Development.
 
 ## Nodejs
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,895 | 🐛 204 | 🌐 TypeScript | 📅 2026-11-23 - Headless Chrome Node API <https://pptr.dev>.
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,896 | 🐛 202 | 🌐 TypeScript | 📅 2026-11-24 - Headless Chrome Node API <https://pptr.dev>.
 * [Phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
 * [jsdom](https://github.com/jsdom/jsdom) ⭐ 21,766 | 🐛 238 | 🌐 JavaScript | 📅 2026-11-21 - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,796 | 🐛 30 | 🌐 TypeScript | 📅 2026-06-18 - Web Crawler/Spider for NodeJS + server-side jQuery.
-* [xray](https://github.com/matthewmueller/x-ray) ⭐ 5,899 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - The next web scraper. See through the `<html>` noise.
+* [xray](https://github.com/matthewmueller/x-ray) ⭐ 5,897 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - The next web scraper. See through the `<html>` noise.
 * [zombie](https://github.com/assaf/zombie) ⚠️ Archived - Insanely fast, full-stack, headless browser testing using node.js.
 * [slimerjs](https://github.com/laurentj/slimerjs) ⭐ 2,993 | 🐛 164 | 🌐 JavaScript | 📅 2023-03-09 - A PhantomJS-like tool running Gecko.
 * [node-simplecrawler](https://github.com/simplecrawler/simplecrawler) ⚠️ Archived - Flexible event driven crawler for node.
@@ -56,18 +56,18 @@ A collection of awesome web scaper, crawler.
 
 ## Ruby
 
-* [wombat](https://github.com/felipecsl/wombat) ⭐ 1,360 | 🐛 24 | 🌐 Ruby | 📅 2026-10-27 - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
+* [wombat](https://github.com/felipecsl/wombat) ⭐ 1,360 | 🐛 24 | 🌐 Ruby | 📅 2026-11-24 - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 
 ## Go
 
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) ⭐ 2,050 | 🐛 6 | 🌐 Go | 📅 2021-05-19 - Polite, slim and concurrent web crawler.
 * [fetchbot](https://github.com/PuerkitoBio/fetchbot) ⭐ 789 | 🐛 2 | 🌐 Go | 📅 2021-05-19 - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
-* [huntsman](https://github.com/TulipFarm/huntsman) ⭐ 16 | 🐛 2 | 🌐 Go | 📅 2026-11-17 - Self-hosted scraper that turns any page into clean Markdown, with a Firecrawl-compatible API and JavaScript rendering through Lightpanda.
+* [huntsman](https://github.com/TulipFarm/huntsman) ⭐ 16 | 🐛 2 | 🌐 Go | 📅 2026-11-24 - Self-hosted scraper that turns any page into clean Markdown, with a Firecrawl-compatible API and JavaScript rendering through Lightpanda.
 
 ## Rust
 
-* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,943 | 🐛 494 | 🌐 Rust | 📅 2026-11-23 - An ergonomic, batteries-included HTTP Client for Rust.
-* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,436 | 🐛 10 | 🌐 Rust | 📅 2026-11-16 - HTML parsing and querying with CSS selectors.
+* [reqwest](https://github.com/seanmonstar/reqwest) ⭐ 11,949 | 🐛 494 | 🌐 Rust | 📅 2026-11-23 - An ergonomic, batteries-included HTTP Client for Rust.
+* [scraper](https://github.com/causal-agent/scraper) ⭐ 2,435 | 🐛 10 | 🌐 Rust | 📅 2026-11-16 - HTML parsing and querying with CSS selectors.
 
 ***
 
@@ -83,4 +83,4 @@ Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/iss
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
