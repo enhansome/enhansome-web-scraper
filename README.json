@@ -69,11 +69,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-25T17:15:02Z",
-            "open_issues": 173,
+            "last_commit": "2026-11-27T13:44:47Z",
+            "open_issues": 167,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 65643,
+            "stars": 65657,
             "topics": [
               "crawler",
               "crawling",
@@ -99,11 +99,11 @@
             "id": 180136168,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T17:53:36Z",
-            "open_issues": 65,
+            "last_commit": "2026-11-27T14:46:44Z",
+            "open_issues": 59,
             "owner": "adbar",
             "repo": "trafilatura",
-            "stars": 7180,
+            "stars": 7229,
             "topics": [
               "article-extractor",
               "corpus-builder",
@@ -249,7 +249,7 @@
             "open_issues": 137,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9165,
+            "stars": 9164,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:25.763Z"
@@ -322,11 +322,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T17:25:59Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-26T20:26:46Z",
+            "open_issues": 190,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95911,
+            "stars": 95913,
             "topics": [
               "automation",
               "chrome",
@@ -383,7 +383,7 @@
             "open_issues": 237,
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21768,
+            "stars": 21769,
             "topics": [
               "dom-apis",
               "html",
@@ -437,7 +437,7 @@
             "open_issues": 30,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6797,
+            "stars": 6796,
             "topics": [
               "cheerio",
               "crawler",
@@ -711,10 +711,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T19:12:41Z",
-            "open_issues": 495,
+            "open_issues": 498,
             "owner": "seanmonstar",
             "repo": "reqwest",
-            "stars": 11963,
+            "stars": 11975,
             "topics": [
               "http",
               "http-client",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:32:31.122Z",
+    "last_updated": "2026-11-27T18:20:16.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web scaper, crawler.",
